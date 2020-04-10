@@ -1,0 +1,14 @@
+.wrapper {
+    text-align: center;
+    -webkit-transform: rotate(330deg);
+    -moz-transform: rotate(330deg);
+    -ms-transform: rotate(330deg);
+    -o-transform: rotate(330deg);
+    transform: rotate(330deg);
+}
+
+svg {
+    margin: 0 auto;
+    width: 63%;
+    height: auto;
+}
